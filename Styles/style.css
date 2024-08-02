@@ -1,0 +1,40 @@
+html, body{
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+
+.top-bar-back-image{
+    background-image: url('/images/banner.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+.trust-rating img{
+    width: 255px;
+}
+
+.feature-product .tea-2{
+    width: 145px;
+}
+.feature-product .tea-1{
+    width: 135px;
+}
+.feature-product .tea-3{
+    width: 143px;
+}
+.feature-product .tea-4{
+    width: 131px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.fresh-img1 img{
+    width: 177px;
+}
+.fresh-img2 img{
+    width: 146px;
+}
