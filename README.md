@@ -49,6 +49,3 @@ The project directory contains the following files and folders:
 
 Contributions are welcome! If you have any improvements or new features to suggest, feel free to create a pull request or open an issue on GitHub.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
